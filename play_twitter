@@ -3,12 +3,6 @@ import tweepy
 import datetime
 import ConfigParser
 
-# The consumer keys can be found on your application's Details
-# page located at https://dev.twitter.com/apps (under "OAuth settings")
-CONSUMER_KEY = 'RCbCLbncJh4uecETEtmpDVnUa'
-CONSUMER_SECRET = 'GJ0ciBZHAofml0bhzDUexoCLrgysP2kKyZoDNnjLKb8Ossndcq'
-OAUTH_TOKEN = '207534635-1pNSt8VS23swopuNldPKwrPk8XiircQO2cMGN03q'
-OAUTH_SECRET = 'y2V04VGTcfKXxzMaklm8bvVEh3c5gMmWYzyO80F6VS9uo'
 
 def lets_tweet():
 	#Authentication
