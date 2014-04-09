@@ -9,4 +9,5 @@ The play_twit.py will read details from ini and try to fetch the latest tweet of
 The streaming_twit.py will run a thread of live twits of a folower mentioned.
 
 Install TK/tcl
+
 Tkinter_test.py throws a interactive pop up box.
